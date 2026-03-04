@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-yelp-scraper",
+  "title": "Yelp Scraper",
+  "description": "Crawls yelp.com search results, extracts name, rating, reviewCount, category, address, phone, isOpen, yelpUrl, priceRange",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}
